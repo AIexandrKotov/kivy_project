@@ -1,4 +1,4 @@
-﻿# модуль K_Label_3.py
+# модуль K_Label_3.py
 from kivy.graphics.svg import Window
 from kivy.lang import Builder
 from kivy.app import App
